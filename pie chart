@@ -1,0 +1,4 @@
+x<-c(2000,18000,1200,7000)
+x
+label=c("november","december","january","february")
+pie(x,label)
